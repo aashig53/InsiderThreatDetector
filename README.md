@@ -37,7 +37,7 @@ Ensure you have **Python** installed.
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/InsiderThreatDetector.git](https://github.com/YOUR_USERNAME/InsiderThreatDetector.git)
+git clone [https://github.com/aashi53/InsiderThreatDetector.git](https://github.com/aashi53/InsiderThreatDetector.git)
 cd InsiderThreatDetector
 ```
 
