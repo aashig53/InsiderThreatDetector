@@ -42,13 +42,13 @@ cd InsiderThreatDetector
 ```
 
 ### 3. Set Up Virtual Environment
-## Windows
+### Windows
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
 ```
 
-## Mac/Linux
+### Mac/Linux
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
