@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 
 # --- Configuration ---
 SERVER_URL = "http://127.0.0.1:5000/log"
-path_to_watch = sys.argv[1] if len(sys.argv) > 1 else r"C:\Users\aashi\OneDrive\Documents\InsiderThreatDetector\test"
+path_to_watch = sys.argv[1] if len(sys.argv) > 1 else r"" #file location
 
 # Check if path exists
 if not os.path.exists(path_to_watch):
