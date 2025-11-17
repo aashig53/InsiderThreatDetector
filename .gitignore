@@ -1,0 +1,22 @@
+# --- Python & Compiled Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments ---
+.venv/
+venv/
+env/
+
+#-- Test Folder --
+test/
+
+# --- Databases ---
+*.db
+*.sqlite3
+
+# --- Flask Instance Folder ---
+instance/
+
+# --- Environment Variables & Secrets ---
+.env
